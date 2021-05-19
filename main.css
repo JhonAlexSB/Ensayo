@@ -1,8 +1,17 @@
 body{
-  color:#222; 
+  color:#white; 
+  background-color: #2d2d2d;
+  margin: 0px;
+  padding: 0px; 
 }
 
 aside, h1{
   margin: auto;
   width: 80%;
+}
+
+#cabecera{
+  margin: 20px 30px;
+  background-color: #222;
+  padding: 10px; 
 }
